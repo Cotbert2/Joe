@@ -1,0 +1,17 @@
+{
+  "name": "Joe",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": "https://github.com/Cotbert2/Joe.git",
+  "author": "Cotbert2 <mateojgdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
